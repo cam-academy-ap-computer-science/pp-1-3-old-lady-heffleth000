@@ -1,4 +1,17 @@
-
+/***
+ * Grading Comments:
+ * Beautiful.  Definitely got the idea on how to reduce work using
+ * methods. 
+ *  Compile/Works: 15/15
+ *  Desired Output: 6/6
+ *  Consistency: 2/2 - clean, you adopted good conventions and stuck with them.
+ *  Efficiency: 2/2 - Great.   Got the idea of nesting methods and ran with it.
+ *   You could still improve by creating a method that just does a 'print' 
+ *   instead of 'println' with "There was an old lady who swallowed a"
+ *   and then call it followed by System.out.println("fly"); (bird, spider...)
+ *   But what you've done is clean and great and nearly optimal.
+ *  25/25
+ */
 public class OldLady {
 
 	public static void main(String[] args) {
